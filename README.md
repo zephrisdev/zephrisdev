@@ -1,7 +1,7 @@
 <h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
 <samp>
-Hi there, I'm <a href="https://github.com/zephrisdev">Zephris!</a> 🚀<br>
+Hi there, I'm <a href="https://guns.lol/zephris">Zephris!</a> 🚀<br>
 A passionate developer who built a digital world driven by curiosity. Self-taught at heart, now a Computer Programming graduate elevating the journey through real-world projects.
 </samp>
 </p>
