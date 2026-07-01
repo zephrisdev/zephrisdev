@@ -1,9 +1,7 @@
 <h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6500FF&width=435&lines=The+Zephris+%7C+aka+Zeph." alt="Typing SVG" />
-  </a>
 </p>
 
 <p align="center">
